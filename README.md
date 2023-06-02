@@ -3,7 +3,7 @@
  + Dịch toàn bộ trang web với google dịch
  + Loại bỏ hết hiệu ứng, logo của google gây vướng víu
 
-```php```
+```html```
 
      Thêm thẻ <script> của Google Translate API
 <link href="duogxaolin.css?t=1685691435175" rel="stylesheet" type="text/css" />

@@ -1,0 +1,135 @@
+.translate-wrapper {
+    padding: 0 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 44px;
+    cursor: pointer;
+    border-radius: 4px
+}
+
+#button_translate span {
+    display: none
+}
+
+#button_translate1 span {
+    display: none
+}
+
+.goog-te-gadget {
+    line-height: 2px!important;
+    color: transparent!important
+}
+
+.goog-te-gadget select {
+    display: block;
+    padding: 6px 9px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out
+}
+
+.grecaptcha-badge {
+    display: none!important
+}
+
+.translated-ltr body {
+    top: 0!important
+}
+
+.icon-middle {
+    position: fixed;
+    right: 15px;
+    bottom: 200px;
+    transition: all .2s;
+    z-index: 3
+}
+
+.icon-middle .icon {
+    margin-bottom: 10px;
+    z-index: 1;
+    width: 55px;
+    height: 55px;
+    background: #3697d7;
+    color: #fff;
+    display: inherit;
+    text-align: center;
+    line-height: 53px;
+    cursor: pointer;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    transition: all .3s
+}
+
+.icon-middle .icon:hover {
+    box-shadow: 0 8px 25px -8px #071666
+}
+
+.icon-middle .icon img {
+    width: auto;
+    max-width: 100%
+}
+
+.icon-middle .icon img.icon-svg {
+    width: calc(100% - 25px);
+    vertical-align: middle
+}
+
+.mini-icons .icon-middle {
+    right: -60px
+}
+
+#middle-control {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    cursor: pointer;
+    z-index: 90;
+    background: #3697d7;
+    -webkit-box-shadow: 0 0 15px 1px rgba(69, 65, 78, .2);
+    box-shadow: 0 0 15px 1px rgba(69, 65, 78, .2);
+    opacity: 1;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    border-radius: 4px;
+    padding: 9px
+}
+
+#middle-control i {
+    font-size: 21px;
+    color: #fff
+}
+
+.skiptranslate iframe {
+    display: none!important
+}
+
+.embed-container iframe {
+    max-width: 100%
+}

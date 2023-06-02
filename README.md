@@ -5,7 +5,7 @@
 
 ```php```
 
-    <!-- Thêm thẻ <script> của Google Translate API -->
+     Thêm thẻ <script> của Google Translate API
 <link href="duogxaolin.css?t=1685691435175" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
     function googleTranslate() {

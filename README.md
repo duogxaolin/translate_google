@@ -4,8 +4,6 @@
  + Loại bỏ hết hiệu ứng, logo của google gây vướng víu
 
 ```html```
-
-     Thêm thẻ <script> của Google Translate API
 <link href="duogxaolin.css?t=1685691435175" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
     function googleTranslate() {

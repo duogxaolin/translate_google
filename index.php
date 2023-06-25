@@ -19,7 +19,7 @@
     <h1>Welcome to my website!</h1>
 
     <!-- Thêm phần tử cho Google Translate -->
-   <div id="button_translate"></div>
+   <div id="button_translate"></div> <!-- Đây là phần sẽ hiển thị thanh chọn ngôn ngữ -->
 
     <h2>Content</h2>
     <p>This is the content of the page.</p>
